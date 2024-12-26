@@ -24,7 +24,7 @@ pip install -r requirements.txt
 1. Clone the repository:
     ```sh
     git clone https://github.com/arpitnema07/sqlite_shell
-    cd SQLite-Shell
+    cd sqlite_shell
     ```
 
 2. Install the required libraries:
