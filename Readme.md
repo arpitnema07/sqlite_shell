@@ -12,7 +12,6 @@ SQLite Shell is an interactive command-line shell that allows you to interact wi
 
 - Python 3.x
 - `openpyxl` library
-- `pyinstaller` library
 
 Install the required libraries using:
 ```sh
